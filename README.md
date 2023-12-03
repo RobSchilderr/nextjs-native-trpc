@@ -1,15 +1,15 @@
-# Welcome to Next Native TRPC
+# Welcome to Next Native tRPC
 
 🚨🚨This is a work-in-progress repository🚨🚨
 
-It is a direct fork of the [Next Native Starter](https://github.com/RobSchilderr/nextjs-native-starter) repository but with the addition of [TRPC](https://trpc.io/). If you would like to contribute, please check out this [PR](https://github.com/timothymiller/t4-app/pull/106) from the Supertokens team to the T4-app for inspiration on how Supertokens could work with TRPC.
+It is a direct fork of the [Next Native Starter](https://github.com/RobSchilderr/nextjs-native-starter) repository but with the addition of [tRPC](https://trpc.io/). If you would like to contribute, please check out this [PR](https://github.com/timothymiller/t4-app/pull/106) from the Supertokens team to the T4-app for inspiration on how Supertokens could work with tRPC.
 
 
 [![Website](https://img.shields.io/badge/Website-nextjs--native.com-blue)](https://nextjs-native.com)
 [![Discord](https://img.shields.io/discord/1159178873129414778?logo=discord&label=Discord&cacheSeconds=3600")](https://discord.gg/zN2HxJjR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/realRobSchilder?style=social)](https://twitter.com/realRobSchilder)
 
-### Use Next.js on iOS and Android + access to native APIs with Capacitor and TRPC
+### Use Next.js on iOS and Android + access to native APIs with Capacitor and tRPC
 
 This monorepo provides a starter project for building truly **universal** applications with Next.js, Tailwind CSS, and Capacitor. This allows you to use Next.js it's routing on iOS and Android. Now, you can truly share all your code between all platforms while staying in your familiar web-dev stack, making it more maintainable compared to keeping up a seperate project with React Native.
 
