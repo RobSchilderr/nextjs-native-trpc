@@ -2,7 +2,7 @@
 
 🚨🚨This is a work-in-progress repository🚨🚨
 
-It is a direct fork of the [Next Native Starter](https://github.com/RobSchilderr/nextjs-native-starter) repository but with the addition of [TRPC](https://trpc.io/).
+It is a direct fork of the [Next Native Starter](https://github.com/RobSchilderr/nextjs-native-starter) repository but with the addition of [TRPC](https://trpc.io/). If you would like to contribute, please check out this [PR](https://github.com/timothymiller/t4-app/pull/106) from the Supertokens team to the T4-app for inspiration on how Supertokens could work with TRPC.
 
 
 [![Website](https://img.shields.io/badge/Website-nextjs--native.com-blue)](https://nextjs-native.com)
